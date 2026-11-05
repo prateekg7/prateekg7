@@ -9,7 +9,7 @@
 
 
 
-<img align="right" width="25%" src="about.png" alt="Prateek Gupta">
+<img align="right" width="35%" src="about.png" alt="Prateek Gupta">
 
 ### Software Developer • AI/ML Enthusiast • Builder
 
@@ -17,9 +17,7 @@ I enjoy turning ideas into useful software from AI-powered tools and developer <
 
 Currently exploring **Generative AI, agentic systems, developer tools, and <br>intelligent applications**.
 
-
-
-
+ㅤ
 ## About Me
 - CSE undergraduate at **IIT Patna**
 - Interested in **Generative AI, LLM applications, AI agents, and ML**
@@ -27,7 +25,7 @@ Currently exploring **Generative AI, agentic systems, developer tools, and <br>i
 - Currently learning more about **agent evaluation, system design, and applied AI**
 - Open to collaborating on interesting open-source and engineering projects
 
-
+ㅤ
 ## Featured Projects
 
 A few things I've been building recently:
@@ -83,7 +81,7 @@ A full-stack community platform for verified profiles, mentorship, referrals, al
 </tr>
 </table>
 
-
+ㅤ
 
 ## Tech Stack
 
@@ -119,7 +117,7 @@ A full-stack community platform for verified profiles, mentorship, referrals, al
 </div>
 
 
-
+ㅤ
 ## Connect With Me
 
 <div align="center">
