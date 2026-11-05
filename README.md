@@ -23,7 +23,7 @@ Currently exploring **Generative AI, agentic systems, developer tools, and intel
 <td width="35%" align="center" valign="middle">
 
 <!-- Replace this path with your own profile image -->
-<img src="about.jpg" alt="Prateek Gupta" width="100%">
+<img src="about.jpg" alt="Prateek Gupta" width="65%">
 
 </td>
 </tr>
