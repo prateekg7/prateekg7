@@ -9,25 +9,15 @@
 
 
 
-<table border="0" cellspacing="0" cellpadding="0">
-<tr>
-<td width="65%" valign="middle">
+<img align="right" width="25%" src="about.png" alt="Prateek Gupta">
 
 ### Software Developer • AI/ML Enthusiast • Builder
 
-I enjoy turning ideas into useful software from AI-powered tools and developer infrastructure to full-stack products.
+I enjoy turning ideas into useful software from AI-powered tools and developer <br> infrastructure to full-stack products.
 
-Currently exploring **Generative AI, agentic systems, developer tools, and intelligent applications**.
+Currently exploring **Generative AI, agentic systems, developer tools, and <br>intelligent applications**.
 
-</td>
-<td width="35%" align="center" valign="middle">
 
-<!-- Replace this path with your own profile image -->
-<img src="about.jpg" alt="Prateek Gupta" width="65%">
-
-</td>
-</tr>
-</table>
 
 
 ## About Me
@@ -113,21 +103,20 @@ A full-stack community platform for verified profiles, mentorship, referrals, al
 
 </div>
 
-
 ㅤ
-<table border="0" cellspacing="0" cellpadding="0">
-<tr>
-<td width="55%" align="center" valign="middle">
-<img src="https://ghstats.dev/api/card?username=prateekg7&theme=gruvbox" alt="GitHub Stats Card" width="100%">
-</td>
-
-<td width="42%" align="center" valign="middle">
-
-<img src="https://ghstats.dev/api/langs?username=prateekg7&theme=gruvbox&max_langs=5&layout=donut_vertical" alt="Top Languages" width="100%">
-
-</td>
-</tr>
-</table>
+ㅤ
+<div align="center">
+  <img
+    src="https://ghstats.dev/api/card?username=prateekg7&theme=gruvbox"
+    alt="GitHub Stats Card"
+    width="52%"
+  />
+  <img
+    src="https://ghstats.dev/api/langs?username=prateekg7&theme=gruvbox&max_langs=5&layout=donut_vertical"
+    alt="Top Languages"
+    width="39%"
+  />
+</div>
 
 
 
